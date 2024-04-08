@@ -1,0 +1,805 @@
+[
+    {
+        "displayName": "Paulie Gualtieri",
+        "email": null,
+        "mri": "8:live:.cid.2627cc1c36866fbf",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": "live:.cid.2627cc1c36866fbf"
+    },
+    {
+        "displayName": "Silvio Dante",
+        "email": null,
+        "mri": "8:live:.cid.8335e5af9d0d0f2b",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": "live:.cid.8335e5af9d0d0f2b"
+    },
+    {
+        "displayName": "Tony Soprano",
+        "email": null,
+        "mri": "8:live:.cid.edc8053af8f5dccb",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": "live:.cid.edc8053af8f5dccb"
+    },
+    {
+        "displayName": "Paulie Gualtieri",
+        "email": "live:.cid.2627cc1c36866fbf",
+        "mri": "8:live:.cid.2627cc1c36866fbf",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": null
+    },
+    {
+        "displayName": "Tony Soprano",
+        "email": "live:.cid.edc8053af8f5dccb",
+        "mri": "8:live:.cid.edc8053af8f5dccb",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "record_type": "contact",
+        "userPrincipalName": null
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.2627cc1c36866fbf_125898828411382230",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "125898828411382230",
+        "composetime": "1712134017561.0",
+        "content": "I Genuinely Don't Think There's Anything To Gain By Keeping Him Around.",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.2627cc1c36866fbf",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711218478542.0",
+        "properties": {
+            "languageStamp": "languages=en:100;fil:75;ga:66;length:71;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-03-23T18:27:58.542000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.2627cc1c36866fbf_1397016546330929370",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "1397016546330929370",
+        "composetime": "1712134017561.0",
+        "content": "",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.2627cc1c36866fbf",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711294057515.0",
+        "properties": {
+            "files": [
+                {
+                    "@type": "http://schema.skype.com/File",
+                    "baseUrl": "",
+                    "botFileProperties": {},
+                    "fileChicletState": {
+                        "serviceName": "p2p",
+                        "state": "active"
+                    },
+                    "fileInfo": {
+                        "fileUrl": "https://1drv.ms/i/s!AL9vhjYczCcmaQ",
+                        "itemId": "2627CC1C36866FBF!105",
+                        "serverRelativeUrl": "",
+                        "shareId": "zDh2GOFDfLvbxuSxu5Yt_NpUCCM",
+                        "shareUrl": "https://1drv.ms/i/s!Ar9vhjYczCcmablhUqspKX085pA",
+                        "siteUrl": ""
+                    },
+                    "fileName": "paulie.jpg",
+                    "filePreview": {
+                        "previewHeight": 900,
+                        "previewUrl": "https://us-api.asm.skype.com/v1/objects/0-weu-d20-dfa021072ec0a4c1f5c48aa1460de092/views/imgo",
+                        "previewWidth": 1600
+                    },
+                    "fileType": "jpg",
+                    "id": "2627CC1C36866FBF!105",
+                    "itemid": "2627CC1C36866FBF!105",
+                    "objectUrl": "https://1drv.ms/i/s!AL9vhjYczCcmaQ",
+                    "state": "active",
+                    "title": "paulie.jpg",
+                    "type": "jpg",
+                    "version": 2
+                }
+            ]
+        },
+        "record_type": "message",
+        "version": "2024-03-24T15:27:37.515000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.2627cc1c36866fbf_1430791016292721560",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "1430791016292721560",
+        "composetime": "1712134017561.0",
+        "content": "You're Only As Good As Your Last Envelope.",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.2627cc1c36866fbf",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711218551078.0",
+        "properties": {
+            "languageStamp": "languages=en:100;pt:76;fil:74;length:42;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-03-23T18:29:11.078000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.2627cc1c36866fbf_5853612751299329939",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "5853612751299329939",
+        "composetime": "1712134017561.0",
+        "content": "Yeah, He'll Talk To Him In 'Ball Peen Hammer'.",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.2627cc1c36866fbf",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711218502894.0",
+        "properties": {
+            "languageStamp": "languages=en:100;nl:71;fi:70;length:46;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-03-23T18:28:22.894000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_1314817426842961287",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "1314817426842961287",
+        "composetime": "1712134017561.0",
+        "content": "",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711294127878.0",
+        "properties": {
+            "files": [
+                {
+                    "@type": "http://schema.skype.com/File",
+                    "baseUrl": "",
+                    "botFileProperties": {},
+                    "fileChicletState": {
+                        "serviceName": "p2p",
+                        "state": "active"
+                    },
+                    "fileInfo": {
+                        "fileUrl": "https://1drv.ms/i/s!ACsPDZ2v5TWDbw",
+                        "itemId": "8335E5AF9D0D0F2B!111",
+                        "serverRelativeUrl": "",
+                        "shareId": "USyO09HQKi1L5qENu_Q_uBiEwH0",
+                        "shareUrl": "https://1drv.ms/i/s!AisPDZ2v5TWDb-NVgfX3O9VTJtk",
+                        "siteUrl": ""
+                    },
+                    "fileName": "silvio.jpg",
+                    "filePreview": {
+                        "previewHeight": 360,
+                        "previewUrl": "https://us-api.asm.skype.com/v1/objects/0-weu-d6-0b42c4f2ae3eab0f26f677f1fdd34a32/views/imgo",
+                        "previewWidth": 270
+                    },
+                    "fileType": "jpg",
+                    "id": "8335E5AF9D0D0F2B!111",
+                    "itemid": "8335E5AF9D0D0F2B!111",
+                    "objectUrl": "https://1drv.ms/i/s!ACsPDZ2v5TWDbw",
+                    "state": "active",
+                    "title": "silvio.jpg",
+                    "type": "jpg",
+                    "version": 2
+                }
+            ]
+        },
+        "record_type": "message",
+        "version": "2024-03-24T15:28:47.878000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_1711219441858",
+        "clientArrivalTime": "1712134017535.0",
+        "clientmessageid": "1711219441858",
+        "composetime": "1712134017535.0",
+        "content": "Call Logs for Call d815f680-813e-4843-8c2f-da4f16953c02",
+        "contenttype": "text",
+        "conversationId": "19:stream01_7ftec6k7yhqzeitia6usgq273jazfwzwcc65vpxqqlbn233x3j3q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.535000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "Text",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711219441926.0",
+        "properties": {
+            "call-log": {
+                "callAttributes": null,
+                "callDirection": "outgoing",
+                "callId": "d815f680-813e-4843-8c2f-da4f16953c02",
+                "callState": "accepted",
+                "callType": "twoParty",
+                "connectTime": "2024-03-23T18:43:21.0737754Z",
+                "endTime": "2024-03-23T18:44:01.5753331Z",
+                "forwardingInfo": null,
+                "messageId": null,
+                "originator": "8:live:.cid.8335e5af9d0d0f2b",
+                "originatorParticipant": {
+                    "applicationType": null,
+                    "displayName": "Silvio Dante",
+                    "id": "8:live:.cid.8335e5af9d0d0f2b",
+                    "type": "default"
+                },
+                "participantList": null,
+                "participants": null,
+                "sessionType": "default",
+                "sharedCorrelationId": "049905b5-5f9a-463f-88f2-fb9ac3bd4a3c",
+                "startTime": "2024-03-23T18:43:07.2077693Z",
+                "target": "8:live:.cid.2627cc1c36866fbf",
+                "targetParticipant": {
+                    "applicationType": null,
+                    "displayName": null,
+                    "id": "8:live:.cid.2627cc1c36866fbf",
+                    "type": "default"
+                },
+                "threadId": null,
+                "transferInfo": null,
+                "userParticipantId": "2c44c1c5-790b-4e72-94df-8e4b7cf5739a"
+            },
+            "languageStamp": "languages=en:100;nl:86;de:82;length:55;&detector=Bling",
+            "s2spartnername": "callingcallcontroller"
+        },
+        "record_type": "call",
+        "version": "2024-03-23T18:44:01.926000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_1712059945674",
+        "clientArrivalTime": "1712134017121.0",
+        "clientmessageid": "1712059945674",
+        "composetime": "1712134017121.0",
+        "content": "",
+        "contenttype": "text",
+        "conversationId": "19:stream01_v4c24bcxy6ohfz6fa7qmrkqcgzoeiokpurfdjfg3ccj4uudxn2gq@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.121000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "Text",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059946339.0",
+        "properties": {
+            "activity": {
+                "activityContext": {
+                    "ClumpType": "DoNotClump",
+                    "WebhookCorrelationId": "130769b1-9110-4478-b850-f8f337ada485",
+                    "activityProcessingLatency": "329.303",
+                    "activityVersion": "171205995418292RpVvhWK0",
+                    "like": "1"
+                },
+                "activityId": 127284761319.0,
+                "activitySubtype": "like",
+                "activityTimestamp": "2024-04-02T12:12:33.853Z",
+                "activityType": "reactionInChat",
+                "count": "1",
+                "messagePreview": "Is it working?",
+                "messagePreviewTemplateOption": "hasText",
+                "sourceMessageId": 1712059890492.0,
+                "sourceReplyChainId": 1712059890492.0,
+                "sourceThreadId": "19:meeting_ODc4NzI0YTktNDQwNy00MmUyLWJjOGEtNzhiNmY1MTlkMjRl@thread.v2",
+                "sourceThreadIsPrivateChannel": "false",
+                "sourceThreadRosterNonBotMemberCount": 2,
+                "sourceThreadTopic": "Meeting in Satriale's",
+                "sourceUserId": "8:live:.cid.edc8053af8f5dccb",
+                "targetUserId": "8:live:.cid.8335e5af9d0d0f2b"
+            },
+            "edittime": 1712059954676.0,
+            "isread": "true",
+            "messageUpdatePolicyValue": 1712059953853.0,
+            "s2spartnername": "skypespaces"
+        },
+        "record_type": "reaction",
+        "version": "2024-04-03T05:39:45.988000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_1893914986101898427",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "1893914986101898427",
+        "composetime": "1712134017561.0",
+        "content": "Certain Aspects Of Show Business And Our Thing.",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711218542861.0",
+        "properties": {
+            "languageStamp": "languages=en:100;fr:54;ms:51;length:47;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-03-23T18:29:02.861000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_2502301850147108232",
+        "clientArrivalTime": "1712134017436.0",
+        "clientmessageid": "2502301850147108232",
+        "composetime": "1712134017436.0",
+        "content": "Test test",
+        "contenttype": "text",
+        "conversationId": "19:ig58PVJnriTDXa8Lg1926k9rbEmixt3obbQT1NAk87s1@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.436000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712129364161.0",
+        "properties": {
+            "languageStamp": "languages=en:100;fr:89;it:87;length:9;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-03T07:29:24.161000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_3147861053343006030",
+        "clientArrivalTime": "1712134017436.0",
+        "clientmessageid": "3147861053343006030",
+        "composetime": "1712134017436.0",
+        "content": "Hey guyz, it is group chat",
+        "contenttype": "text",
+        "conversationId": "19:ig58PVJnriTDXa8Lg1926k9rbEmixt3obbQT1NAk87s1@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.436000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712129110130.0",
+        "properties": {
+            "languageStamp": "languages=en:100;nl:78;id:77;length:26;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-03T07:25:10.130000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_3739664323125496103",
+        "clientArrivalTime": "1712134017591.0",
+        "clientmessageid": "3739664323125496103",
+        "composetime": "1712134017591.0",
+        "content": "Good Tony ",
+        "contenttype": "text",
+        "conversationId": "19:uni01_qmyzilknz7b6plzbopqlyxtunuhlyn63ysaih26s2o73ur4kj7ha@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.591000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059461743.0",
+        "properties": {
+            "languageStamp": "languages=en:100;pl:73;fil:71;length:9;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-02T12:04:21.743000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_3927589863132840848",
+        "clientArrivalTime": "1712134017561.0",
+        "clientmessageid": "3927589863132840848",
+        "composetime": "1712134017561.0",
+        "content": "The Fact That These Girls Make $1500 A Week Has No Bearing With My Principessa.",
+        "contenttype": "text",
+        "conversationId": "19:uni01_mvarfmupcc3yqk53it5govtw6unw6pfrmke3oqywhupma43q6l6q@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.561000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711218496099.0",
+        "properties": {
+            "languageStamp": "languages=en:100;fil:68;nl:63;length:79;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-03-23T18:28:16.099000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_4049703405255226167",
+        "clientArrivalTime": "1712134017490.0",
+        "clientmessageid": "4049703405255226167",
+        "composetime": "1712134017490.0",
+        "content": "Is it working?",
+        "contenttype": "text",
+        "conversationId": "19:meeting_ODc4NzI0YTktNDQwNy00MmUyLWJjOGEtNzhiNmY1MTlkMjRl@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.490000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059890492.0",
+        "properties": {
+            "emotions": [
+                {
+                    "key": "heart",
+                    "users": []
+                },
+                {
+                    "key": "like",
+                    "users": [
+                        {
+                            "mri": "8:live:.cid.edc8053af8f5dccb",
+                            "time": 1712059953784.0,
+                            "value": "1712059953367"
+                        }
+                    ]
+                },
+                                {
+                    "key": "dislike",
+                    "users": [
+                        {
+                            "mri": "8:live:.cid.edc8053af8f5dccb",
+                            "time": 1712059953784.0,
+                            "value": "1712059953367"
+                        }
+                    ]
+                }
+            ],
+            "languageStamp": "languages=en:100;nl:78;af:74;length:14;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-02T12:12:33.773000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_638468173740982434",
+        "clientArrivalTime": "1712134018382.0",
+        "clientmessageid": "638468173740982434",
+        "composetime": "1712134018382.0",
+        "content": "New event created: Meeting in BadaBing",
+        "contenttype": "Text",
+        "conversationId": "19:meeting_YjAwNmZmZDUtYWJkMC00NDQ3LWE3MzUtZDE2YjM5ZjM4NGFm@thread.v2",
+        "createdTime": "2024-04-03T08:46:58.382000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711220574156.0",
+        "properties": {
+            "isread": false,
+            "languageStamp": "languages=en:100;nl:74;id:74;length:38;&detector=Bling",
+            "meeting": {
+                "@type": "http://schema.skype.com/ScheduledMeetingCreated",
+                "body": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n</head>\r\n<body>\r\n<div><br>\r\n<br>\r\n<br>\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div class=\"me-email-text\" lang=\"\" style=\"color:#252424; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n<div style=\"margin-top:24px; margin-bottom:20px\"><span style=\"font-size:24px; color:#252424\">Spotkanie w&nbsp;aplikacji Microsoft Teams</span>\r\n</div>\r\n<div style=\"margin-bottom:20px\">\r\n<div style=\"margin-top:0px; margin-bottom:0px; font-weight:bold\"><span style=\"font-size:14px; color:#252424\">Dołącz na komputerze, w&nbsp;aplikacji mobilnej lub na urządzeniu w sali</span>\r\n</div>\r\n<a href=\"https://teams.live.com/meet/9467715647027?p=rFcU8g8gTgfcaw4v\" class=\"me-email-headline\" style=\"font-size:14px; font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; text-decoration:underline; color:#6264a7\">Kliknij\r\n tutaj, aby dołączyć do spotkania</a> </div>\r\n<div style=\"margin-bottom:20px; margin-top:20px\">\r\n<div style=\"margin-bottom:4px\"><span data-tid=\"meeting-code\" style=\"font-size:14px; color:#252424\">Identyfikator spotkania:\r\n<span style=\"font-size:16px; color:#252424\">946 771 564 702 7</span> </span><br>\r\n<span style=\"font-size:14px; color:#252424\">Kod dostępu: </span><span style=\"font-size:16px; color:#252424\">TXyLfi\r\n</span>\r\n<div style=\"font-size:14px\"><a href=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Pobierz\r\n aplikację Teams</a> | <a href=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\nDołącz w Internecie</a></div>\r\n</div>\r\n</div>\r\n<div style=\"margin-bottom:24px; margin-top:20px\"><a href=\"https://aka.ms/JoinTeamsMeeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Dowiedz się\r\n więcej</a> | <a href=\"https://teams.live.com/meetingOptions/meetings/9467715647027/view?localeCode=pl-PL\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\nOpcje spotkania</a> </div>\r\n</div>\r\n<div style=\"font-size:14px; margin-bottom:4px; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n</div>\r\n<div style=\"font-size:12px\"></div>\r\n</div>\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div></div>\r\n</body>\r\n</html>\r\n",
+                "itemid": "1711220574098",
+                "location": "Microsoft Teams Meeting",
+                "meetingJoinUrl": "https://teams.live.com/meet/9467715647027?p=rFcU8g8gTgfcaw4v",
+                "meetingtitle": "Meeting in BadaBing",
+                "rsvpTo": "silviodante_test@outlook.com",
+                "scheduledmeetinginfo": {
+                    "endTime": "2024-03-23T20:00:00Z",
+                    "eventType": "Single",
+                    "exchangeId": "AQMkADAwATM0MDAAMS02ZGU0LTc5MjYtMDACLTAwCgBGAAADZySZHNpfOUCYsTahJRBhHQcAWyODfpRSKUGhFs7gumvwowAAAgENAAAAWyODfpRSKUGhFs7gumvwowAAApYRAAAA",
+                    "iCalUID": "040000008200e00074c5b7101a82e00800000000cb5649b5547dda01000000000000000010000000e0de1ae7601e604896f227c8d058adf6",
+                    "isCancelled": false,
+                    "startTime": "2024-03-23T19:30:00Z",
+                    "timeZoneId": "Central European Standard Time"
+                }
+            }
+        },
+        "record_type": "message",
+        "version": "2024-03-23T19:02:54.156000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.8335e5af9d0d0f2b_638468173974997428",
+        "clientArrivalTime": "1712134018381.0",
+        "clientmessageid": "638468173974997428",
+        "composetime": "1712134018381.0",
+        "content": "Event updated: Meeting in BadaBing",
+        "contenttype": "Text",
+        "conversationId": "19:meeting_YjAwNmZmZDUtYWJkMC00NDQ3LWE3MzUtZDE2YjM5ZjM4NGFm@thread.v2",
+        "createdTime": "2024-04-03T08:46:58.381000",
+        "creator": "8:live:.cid.8335e5af9d0d0f2b",
+        "isFromMe": true,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1711220597614.0",
+        "properties": {
+            "isread": false,
+            "languageStamp": "languages=en:100;id:76;nl:76;length:34;&detector=Bling",
+            "meeting": {
+                "@type": "http://schema.skype.com/ScheduledMeetingUpdated",
+                "body": "\r\n\r\n\r\n\r\n\r\n<div><br />\r\n<br />\r\n<br />\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap;color:#5F5F5F;opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div class=\"me-email-text\" lang style=\"color:#252424;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n<div style=\"margin-top:24px;margin-bottom:20px\"><span style=\"font-size:24px;color:#252424\">Spotkanie w aplikacji Microsoft Teams</span>\r\n</div>\r\n<div style=\"margin-bottom:20px\">\r\n<div style=\"margin-top:0px;margin-bottom:0px;font-weight:bold\"><span style=\"font-size:14px;color:#252424\">Dołącz na komputerze, w aplikacji mobilnej lub na urządzeniu w sali</span>\r\n</div>\r\n<a href=\"https://teams.live.com/meet/9467715647027?p=rFcU8g8gTgfcaw4v\" class=\"me-email-headline\" style=\"font-size:14px;font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;text-decoration:underline;color:#6264a7\" title=\"https://teams.live.com/meet/9467715647027?p=rfcu8g8gtgfcaw4v\" target=\"_blank\" rel=\"noreferrer noopener\">Kliknij\r\n tutaj, aby dołączyć do spotkania</a> </div>\r\n<div style=\"margin-bottom:20px;margin-top:20px\">\r\n<div style=\"margin-bottom:4px\"><span style=\"font-size:14px;color:#252424\">Identyfikator spotkania:\r\n<span style=\"font-size:16px;color:#252424\">946 771 564 702 7</span> </span><br />\r\n<span style=\"font-size:14px;color:#252424\">Kod dostępu: </span><span style=\"font-size:16px;color:#252424\">TXyLfi\r\n</span>\r\n<div style=\"font-size:14px\"><a href=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" class=\"me-email-link\" style=\"font-size:14px;text-decoration:underline;color:#6264a7;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\" title=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" target=\"_blank\" rel=\"noreferrer noopener\">Pobierz\r\n aplikację Teams</a> | <a href=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" class=\"me-email-link\" style=\"font-size:14px;text-decoration:underline;color:#6264a7;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\" title=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" target=\"_blank\" rel=\"noreferrer noopener\">\r\nDołącz w Internecie</a></div>\r\n</div>\r\n</div>\r\n<div style=\"margin-bottom:24px;margin-top:20px\"><a href=\"https://aka.ms/JoinTeamsMeeting\" class=\"me-email-link\" style=\"font-size:14px;text-decoration:underline;color:#6264a7;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\" title=\"https://aka.ms/jointeamsmeeting\" target=\"_blank\" rel=\"noreferrer noopener\">Dowiedz się\r\n więcej</a> | <a href=\"https://teams.live.com/meetingOptions/meetings/9467715647027/view?localeCode=pl-PL\" class=\"me-email-link\" style=\"font-size:14px;text-decoration:underline;color:#6264a7;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\" title=\"https://teams.live.com/meetingoptions/meetings/9467715647027/view?localecode=pl-pl\" target=\"_blank\" rel=\"noreferrer noopener\">\r\nOpcje spotkania</a> </div>\r\n</div>\r\n<div style=\"font-size:14px;margin-bottom:4px;font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n</div>\r\n<div style=\"font-size:12px\"></div>\r\n</div>\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap;color:#5F5F5F;opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div></div>\r\n\r\n\r\n",
+                "itemid": "1711220597499",
+                "location": "Microsoft Teams Meeting",
+                "meetingJoinUrl": "https://teams.live.com/meet/9467715647027?p=rFcU8g8gTgfcaw4v",
+                "meetingtitle": "Meeting in BadaBing",
+                "rsvpTo": "silviodante_test@outlook.com",
+                "scheduledmeetinginfo": {
+                    "endTime": "2024-03-23T20:00:00Z",
+                    "eventType": "Single",
+                    "exchangeId": "AQMkADAwATM0MDAAMS02ZGU0LTc5MjYtMDACLTAwCgBGAAADZySZHNpfOUCYsTahJRBhHQcAWyODfpRSKUGhFs7gumvwowAAAgENAAAAWyODfpRSKUGhFs7gumvwowAAApYRAAAA",
+                    "iCalUID": "040000008200e00074c5b7101a82e00800000000cb5649b5547dda01000000000000000010000000e0de1ae7601e604896f227c8d058adf6",
+                    "isCancelled": false,
+                    "startTime": "2024-03-23T19:30:00Z",
+                    "timeZoneId": "Central European Standard Time"
+                }
+            }
+        },
+        "record_type": "message",
+        "version": "2024-03-23T19:03:17.614000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.edc8053af8f5dccb_1146386306134260521",
+        "clientArrivalTime": "1712134017591.0",
+        "clientmessageid": "1146386306134260521",
+        "composetime": "1712134017591.0",
+        "content": "Hey Silvio",
+        "contenttype": "text",
+        "conversationId": "19:uni01_qmyzilknz7b6plzbopqlyxtunuhlyn63ysaih26s2o73ur4kj7ha@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.591000",
+        "creator": "8:live:.cid.edc8053af8f5dccb",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059447565.0",
+        "properties": {
+            "languageStamp": "languages=en:100;fr:97;de:96;length:10;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-02T12:04:07.565000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.edc8053af8f5dccb_4244232253811962333",
+        "clientArrivalTime": "1712134017591.0",
+        "clientmessageid": "4244232253811962333",
+        "composetime": "1712134017591.0",
+        "content": "How you doin",
+        "contenttype": "text",
+        "conversationId": "19:uni01_qmyzilknz7b6plzbopqlyxtunuhlyn63ysaih26s2o73ur4kj7ha@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.591000",
+        "creator": "8:live:.cid.edc8053af8f5dccb",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059452358.0",
+        "properties": {
+            "languageStamp": "languages=en:100;de:76;ro:71;length:12;&detector=Bling"
+        },
+        "record_type": "message",
+        "version": "2024-04-02T12:04:12.358000"
+    },
+    {
+        "attachments": [],
+        "cachedDeduplicationKey": "8:live:.cid.edc8053af8f5dccb_638476566620031228",
+        "clientArrivalTime": "1712134017491.0",
+        "clientmessageid": "638476566620031228",
+        "composetime": "1712134017491.0",
+        "content": "New event created: Meeting in Satriale's",
+        "contenttype": "Text",
+        "conversationId": "19:meeting_ODc4NzI0YTktNDQwNy00MmUyLWJjOGEtNzhiNmY1MTlkMjRl@thread.v2",
+        "createdTime": "2024-04-03T08:46:57.491000",
+        "creator": "8:live:.cid.edc8053af8f5dccb",
+        "isFromMe": false,
+        "messageKind": null,
+        "messagetype": "RichText/Html",
+        "origin_file": "https_teams.live.com_0.indexeddb.leveldb",
+        "originalArrivalTime": "1712059862158.0",
+        "properties": {
+            "isread": false,
+            "languageStamp": "languages=en:100;nl:76;id:75;length:40;&detector=Bling",
+            "meeting": {
+                "@type": "http://schema.skype.com/ScheduledMeetingCreated",
+                "body": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n</head>\r\n<body>\r\nSome meeting description&nbsp;\r\n<div><br>\r\n<br>\r\n<br>\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div class=\"me-email-text\" lang=\"\" style=\"color:#252424; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n<div style=\"margin-top:24px; margin-bottom:20px\"><span style=\"font-size:24px; color:#252424\">Spotkanie w&nbsp;aplikacji Microsoft Teams</span>\r\n</div>\r\n<div style=\"margin-bottom:20px\">\r\n<div style=\"margin-top:0px; margin-bottom:0px; font-weight:bold\"><span style=\"font-size:14px; color:#252424\">Dołącz na komputerze, w&nbsp;aplikacji mobilnej lub na urządzeniu w sali</span>\r\n</div>\r\n<a href=\"https://teams.live.com/meet/9471035050657?p=8UZwirr5gMoMrR9m\" class=\"me-email-headline\" style=\"font-size:14px; font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; text-decoration:underline; color:#6264a7\">Kliknij\r\n tutaj, aby dołączyć do spotkania</a> </div>\r\n<div style=\"margin-bottom:20px; margin-top:20px\">\r\n<div style=\"margin-bottom:4px\"><span data-tid=\"meeting-code\" style=\"font-size:14px; color:#252424\">Identyfikator spotkania:\r\n<span style=\"font-size:16px; color:#252424\">947 103 505 065 7</span> </span><br>\r\n<span style=\"font-size:14px; color:#252424\">Kod dostępu: </span><span style=\"font-size:16px; color:#252424\">zJNhop\r\n</span>\r\n<div style=\"font-size:14px\"><a href=\"https://www.microsoft.com/en-us/microsoft-teams/download-app\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Pobierz\r\n aplikację Teams</a> | <a href=\"https://www.microsoft.com/microsoft-teams/join-a-meeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\nDołącz w Internecie</a></div>\r\n</div>\r\n</div>\r\n<div style=\"margin-bottom:24px; margin-top:20px\"><a href=\"https://aka.ms/JoinTeamsMeeting\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">Dowiedz się\r\n więcej</a> | <a href=\"https://teams.live.com/meetingOptions/meetings/9471035050657/view?localeCode=pl-PL\" class=\"me-email-link\" style=\"font-size:14px; text-decoration:underline; color:#6264a7; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\nOpcje spotkania</a> </div>\r\n</div>\r\n<div style=\"font-size:14px; margin-bottom:4px; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif\">\r\n</div>\r\n<div style=\"font-size:12px\"></div>\r\n</div>\r\n<div style=\"width:100%\"><span style=\"white-space:nowrap; color:#5F5F5F; opacity:.36\">________________________________________________________________________________</span>\r\n</div>\r\n<div></div>\r\n</body>\r\n</html>\r\n",
+                "itemid": "1712059862003",
+                "location": "Satriale's Pork Shop",
+                "meetingJoinUrl": "https://teams.live.com/meet/9471035050657?p=8UZwirr5gMoMrR9m",
+                "meetingtitle": "Meeting in Satriale's",
+                "rsvpTo": "tonysoprano_test@outlook.com",
+                "scheduledmeetinginfo": {
+                    "endTime": "2024-04-02T13:00:00Z",
+                    "eventType": "Single",
+                    "exchangeId": "AQMkADAwATM3ZmYAZS03YWEAMC0zZDZjLTAwAi0wMAoARgAAAx_68m2KIhFOqLhUh3faB58HAD2phlkuaNZDjR2TW-L-4mYAAAIBDQAAAD2phlkuaNZDjR2TW-L-4mYAAAIqfwAAAA==",
+                    "iCalUID": "040000008200e00074c5b7101a82e008000000003df296cef684da01000000000000000010000000ff6d1da1229a154f9969bff7c9a7da15",
+                    "isCancelled": false,
+                    "startTime": "2024-04-02T12:30:00Z",
+                    "timeZoneId": "Central European Standard Time"
+                }
+            }
+        },
+        "record_type": "message",
+        "version": "2024-04-02T12:11:02.158000"
+    },
+    {
+        "cachedDeduplicationKey": "19:meeting_ODc4NzI0YTktNDQwNy00MmUyLWJjOGEtNzhiNmY1MTlkMjRl@thread.v2",
+        "clientUpdateTime": null,
+        "id": "19:meeting_ODc4NzI0YTktNDQwNy00MmUyLWJjOGEtNzhiNmY1MTlkMjRl@thread.v2",
+        "members": [
+            {
+                "id": "8:live:.cid.edc8053af8f5dccb",
+                "isReader": false,
+                "role": "Admin"
+            },
+            {
+                "id": "8:live:.cid.8335e5af9d0d0f2b",
+                "isReader": false,
+                "role": "Admin"
+            }
+        ],
+        "record_type": "meeting",
+        "threadProperties": {
+            "cfet": false,
+            "coOrganizers": "<Undefined>",
+            "consumerGroupId": "<Undefined>",
+            "createdat": "1712059808085",
+            "creator": "8:live:.cid.edc8053af8f5dccb",
+            "disabledReason": "<Undefined>",
+            "gapDetectionEnabled": true,
+            "groupTemplate": "<Undefined>",
+            "guardianChatInfo": "<Undefined>",
+            "hasTranscript": false,
+            "hidden": false,
+            "importState": "unknown",
+            "isDisabled": "false",
+            "isLastMessageFromMe": true,
+            "isLiveChatEnabled": false,
+            "isRead": true,
+            "isStickyThread": false,
+            "lastjoinat": "1712059861775",
+            "liveChatPolicy": "<Undefined>",
+            "meeting": {
+                "coOrganizerIds": [],
+                "endTime": "2024-04-02T13:00:00+00:00",
+                "eventType": "Single",
+                "exchangeId": "AQMkADAwATM3ZmYAZS03YWEAMC0zZDZjLTAwAi0wMAoARgAAAx_68m2KIhFOqLhUh3faB58HAD2phlkuaNZDjR2TW-L-4mYAAAIBDQAAAD2phlkuaNZDjR2TW-L-4mYAAAIqfwAAAA==",
+                "iCalUid": "040000008200e00074c5b7101a82e008000000003df296cef684da01000000000000000010000000ff6d1da1229a154f9969bff7c9a7da15",
+                "isCancelled": false,
+                "isCopyRestrictionEnforced": false,
+                "location": "Satriale's Pork Shop",
+                "meetingData": {
+                    "meetingCode": "9471035050657"
+                },
+                "meetingJoinUrl": "https://teams.live.com/meet/9471035050657",
+                "meetingType": "Scheduled",
+                "messagingPolicy": null,
+                "organizerId": "edc8053af8f5dccb",
+                "scenario": "",
+                "startTime": "2024-04-02T12:30:00+00:00",
+                "subject": "Meeting in Satriale's",
+                "templateDetails": null
+            },
+            "meetingChatPolicy": "Unknown",
+            "meetingChatType": "<Undefined>",
+            "meetingContent": "<Undefined>",
+            "meetingObjectsConfig": "<Undefined>",
+            "messagingdisabled": false,
+            "picture": "<Undefined>",
+            "recentAttendanceReport": "<Undefined>",
+            "retentionHorizon": 0,
+            "retentionHorizonV2": 0,
+            "sharehistorytime": 1712059861775.0,
+            "templateType": "<Undefined>",
+            "tenantid": "00000000-0000-0000-0000-000000000000",
+            "themeId": "<Undefined>",
+            "threadType": "meeting",
+            "topic": "Meeting in Satriale's",
+            "uniquerosterthread": false,
+            "version": "1712059930915",
+            "webinarId": "<Undefined>"
+        },
+        "type": "Meeting",
+        "version": 1712059954120.0
+    },
+    {
+        "cachedDeduplicationKey": "19:meeting_YjAwNmZmZDUtYWJkMC00NDQ3LWE3MzUtZDE2YjM5ZjM4NGFm@thread.v2",
+        "clientUpdateTime": null,
+        "id": "19:meeting_YjAwNmZmZDUtYWJkMC00NDQ3LWE3MzUtZDE2YjM5ZjM4NGFm@thread.v2",
+        "members": [
+            {
+                "id": "8:live:.cid.8335e5af9d0d0f2b",
+                "isReader": false,
+                "role": "Admin"
+            },
+            {
+                "id": "8:live:.cid.2627cc1c36866fbf",
+                "isReader": false,
+                "role": "Admin"
+            }
+        ],
+        "record_type": "meeting",
+        "threadProperties": {
+            "cfet": false,
+            "coOrganizers": "<Undefined>",
+            "consumerGroupId": "<Undefined>",
+            "createdat": "1711220550435",
+            "creator": "8:live:.cid.8335e5af9d0d0f2b",
+            "disabledReason": "<Undefined>",
+            "gapDetectionEnabled": true,
+            "groupTemplate": "<Undefined>",
+            "guardianChatInfo": "<Undefined>",
+            "hasTranscript": false,
+            "hidden": false,
+            "importState": "unknown",
+            "isDisabled": "false",
+            "isLastMessageFromMe": true,
+            "isLiveChatEnabled": false,
+            "isRead": true,
+            "isStickyThread": false,
+            "lastjoinat": "1711220550435",
+            "liveChatPolicy": "<Undefined>",
+            "meeting": {
+                "coOrganizerIds": [],
+                "endTime": "2024-03-23T20:00:00+00:00",
+                "eventType": "Single",
+                "exchangeId": "AQMkADAwATM0MDAAMS02ZGU0LTc5MjYtMDACLTAwCgBGAAADZySZHNpfOUCYsTahJRBhHQcAWyODfpRSKUGhFs7gumvwowAAAgENAAAAWyODfpRSKUGhFs7gumvwowAAApYRAAAA",
+                "iCalUid": "040000008200e00074c5b7101a82e00800000000cb5649b5547dda01000000000000000010000000e0de1ae7601e604896f227c8d058adf6",
+                "isCancelled": false,
+                "isCopyRestrictionEnforced": false,
+                "location": "Microsoft Teams Meeting",
+                "meetingData": {
+                    "meetingCode": "9467715647027"
+                },
+                "meetingJoinUrl": "https://teams.live.com/meet/9467715647027",
+                "meetingType": "Scheduled",
+                "messagingPolicy": null,
+                "organizerId": "8335e5af9d0d0f2b",
+                "scenario": "",
+                "startTime": "2024-03-23T19:30:00+00:00",
+                "subject": "Meeting in BadaBing",
+                "templateDetails": null
+            },
+            "meetingChatPolicy": "Unknown",
+            "meetingChatType": "<Undefined>",
+            "meetingContent": "<Undefined>",
+            "meetingObjectsConfig": "<Undefined>",
+            "messagingdisabled": false,
+            "picture": "<Undefined>",
+            "recentAttendanceReport": "<Undefined>",
+            "retentionHorizon": 0,
+            "retentionHorizonV2": 0,
+            "templateType": "<Undefined>",
+            "tenantid": "00000000-0000-0000-0000-000000000000",
+            "themeId": "<Undefined>",
+            "threadType": "meeting",
+            "topic": "Meeting in BadaBing",
+            "uniquerosterthread": false,
+            "version": "1711220597386",
+            "webinarId": "<Undefined>"
+        },
+        "type": "Meeting",
+        "version": 1711283800814.0
+    }
+]
