@@ -212,13 +212,13 @@ def printConsolePrettyOutput(dictionaryList):
 
 
 # Print messages in particular threads
-def printConsoleMessageThreads(data):
+def printConsoleMessageThreads(dictionaryList):
     listOfThreads = []
     dictOfMessages = {}
 
     # retrieve list of thread id
-    for thread in range(len(data)):
-        conversationId = data[thread].get('conversationId')
+    for thread in range(len(dictionaryList)):
+        conversationId = dictionaryList[thread].get('conversationId')
         if conversationId not in listOfThreads:
             listOfThreads.append(conversationId)
 
@@ -226,14 +226,14 @@ def printConsoleMessageThreads(data):
     for thread in listOfThreads:
         tableOfMessages = []
         counter = 1
-        for row in range(len(data)):
-            conversationId = data[row].get('conversationId')
+        for row in range(len(dictionaryList)):
+            conversationId = dictionaryList[row].get('conversationId')
             if thread == conversationId:
-                tableOfMessages.append(data[row])
+                tableOfMessages.append(dictionaryList[row])
             counter += 1
         dictOfMessages[thread] = tableOfMessages
 
-    print(f'[INFO] Count of messages = {len(data)}')
+    print(f'[INFO] Count of messages = {len(dictionaryList)}')
     print(f'[INFO] Count of threads = {len(listOfThreads)}')
 
     for thread in dictOfMessages:
