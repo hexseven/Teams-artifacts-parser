@@ -1,155 +1,139 @@
-# Input File Handle
-
+## Input File Handle
 `def fileHandler(filename)`
-Simple method for file handling in read mode.
-Parameter
---------------------
+</br>Simple method for file handling in read mode.
+</br></br>**Parameter**</br>
 filename : str 
-	Path to input json file. Expected .json as output from ms_teams_parser.exe.
-Returns
---------------------
+</br>&emsp;&emsp;Path to input json file. Expected .json as output from ms_teams_parser.exe.
+</br></br>**Returns**</br>
 data : JSON object
-	JSON ready for analysis
+</br>&emsp;&emsp;JSON ready for analysis
 
-------------------------------------------------------------------
-# Support Methods 
+---
+## Support Methods 
 
 `def convertFromEpochTime(time)`
-Converts Epoch time to a human-readable format. The function takes an Epoch time value as input (provided as a string) and returns a formatted string representing the corresponding date and time.
-Parameter
---------------------
-time : str 
-	Receives Epoch time as string. 
-Returns
---------------------
+</br>Converts Epoch time to a human-readable format. The function takes an Epoch time value as input (provided as a string) and returns a formatted string representing the corresponding date and time.
+</br></br>**Parameter**
+</br>time : str 
+</br>&emsp;&emsp;Receives Epoch time as string. 
+</br></br>**Returns**</br>
 humanReadableTime : str
-	Human-readable time format. 
+</br>&emsp;&emsp;Human-readable time format. 
 
+</br>
 
 `callLength(callStart, callEnd)`
-Calculate time length based on start and end of call timestamps.
-Parameters
---------------------
+</br>Calculate time length based on start and end of call timestamps.
+</br></br>**Parameters**</br>
 callStart : str 
-	The start of call timestamp in ISO 8601.
+</br>&emsp;&emsp;The start of call timestamp in ISO 8601.
 callEnd : str
-	The end of call timestamp in ISO 8601.
-Returns
---------------------
+</br>&emsp;&emsp;The end of call timestamp in ISO 8601.
+</br></br>**Returns**</br>
 timeDifference : str
-	Timedelta as difference between callEnd and callStart.
+</br>&emsp;&emsp;Timedelta as difference between callEnd and callStart.
 
+</br>
 
 `def getUsername(email, data)`
-Matching MRI with username of Teams user. Function looking for field record_type which value is contact. If matches, going deeper for displayName. 
+</br>Matching MRI with username of Teams user. Function looking for field record_type which value is contact. If matches, going deeper for displayName. 
 Example:
 ```
 "displayName": "Paulie Gualtieri",
 "email": "live:.cid.2627cc1c36866fbf",
 "mri": "8:live:.cid.2627cc1c36866fbf",
 ```
-Parameters
---------------------
+</br></br>**Parameters**</br>
 email : str 
-	MRI(Microsoft Resource Identifier) - unique id for every user in resource. 
+</br>&emsp;&emsp;MRI(Microsoft Resource Identifier) - unique id for every user in resource. 
 data : JSON object
-	JSON ready for analysis, output of fileHandler().
-Returns
---------------------
+</br>&emsp;&emsp;JSON ready for analysis, output of fileHandler().
+</br></br>**Returns**</br>
 displayName : str
-	Value of displayName key. Standar username e.g. Silvio Dante. 
+</br>&emsp;&emsp;Value of displayName key. Standar username e.g. Silvio Dante. 
 
-------------------------------------------------------------------
-# Analysis Methods
+---
+## Analysis Methods
 
 `def getUsers(data)`
-Retrieve contacts presents in Teams.
-Parameters
---------------------
+</br>Retrieve contacts presents in Teams.
+</br></br>**Parameter**</br>
 data : JSON object
-	JSON ready for analysis
-Returns
---------------------
+</br>&emsp;&emsp;JSON ready for analysis
+</br></br>**Returns**</br>
 uniqueUsers : list
-	List of unique users. Each field in list contains dictionary with user attributes. Structure: `[{}, {}, ..., {}]`.
+</br>&emsp;&emsp;List of unique users. Each field in list contains dictionary with user attributes. Structure: `[{}, {}, ..., {}]`.
 
+</br>
 
 `def getMessageContent(data)`
-Retrieve messages from chats.
-Parameters
---------------------
+</br>Retrieve messages from chats.
+</br></br>**Parameter**</br>
 data : JSON object
-	JSON ready for analysis
-Returns
---------------------
+</br>&emsp;&emsp;JSON ready for analysis
+</br></br>**Returns**</br>
 listOfMessages : list
-	List of messages. Each field in list contains dictionary with message attributes. Structure: `[{}, {}, ..., {}]`.
+</br>&emsp;&emsp;List of messages. Each field in list contains dictionary with message attributes. Structure: `[{}, {}, ..., {}]`.
 
+</br>
 
 `def getReactions(data)`
-`def getReactions(data)`
-Retrieve reactions for particular messages in chat.
-Parameters
---------------------
+</br>Retrieve reactions for particular messages in chat.
+</br></br>**Parameter**</br>
 data : JSON object
-	JSON ready for analysis
-Returns
---------------------
+</br>&emsp;&emspJSON ready for analysis
+</br></br>**Returns**</br>
 listOfReactions : list
-	List of reactions with attributes. Each field in list contains dictionary with reactions attributes. Structure: `[{}, {}, ..., {}]`.
+</br>&emsp;&emspList of reactions with attributes. Each field in list contains dictionary with reactions attributes. Structure: `[{}, {}, ..., {}]`.
 
+</br>
 
 `def getCalls(data)`
-Retrieve informations about calls.
-Parameters
---------------------
+</br>Retrieve informations about calls.
+</br></br>**Parameter**</br>
 data : JSON object
-	JSON ready for analysis
-Returns
---------------------
+</br>&emsp;&emspJSON ready for analysis
+</br></br>**Returns**</br>
 listOfCalls : list
-	List of reactions with attributes. Each field in list contains dictionary with calls attributes. Structure: `[{}, {}, ..., {}]`.
+</br>&emsp;&emspList of reactions with attributes. Each field in list contains dictionary with calls attributes. Structure: `[{}, {}, ..., {}]`.
 
+</br>
 
 `def getMeetings(data)`
-Retrieve informations about meetings in calendar.
-Parameters
---------------------
+</br>Retrieve informations about meetings in calendar.
+</br></br>**Parameter**</br>
 data : JSON object
-	JSON ready for analysis
-Returns
---------------------
+</br>&emsp;&emspJSON ready for analysis
+</br></br>**Returns**</br>
 listOfMeetings : list
-	List of meetings with attributes. Each field in list contains dictionary with meetings attributes. Structure: `[{}, {}, ..., {}]`.
+</br>&emsp;&emspList of meetings with attributes. Each field in list contains dictionary with meetings attributes. Structure: `[{}, {}, ..., {}]`.
 
-------------------------------------------------------------------
-# Printing Methods
+---
+## Printing Methods
 
 `def printConsolePrettyOutput(dictionaryList)`
-General print method. 
-Parameters
---------------------
+</br>General print method. 
+</br></br>**Parameter**</br>
 dictionaryList : list
-	List of dictionaries with data.
-Returns
---------------------
+</br>&emsp;&emspList of dictionaries with data.
+</br></br>**Returns**</br>
 Print : str
-	Print output in key : value structure. 
+</br>&emsp;&emspPrint output in key : value structure. 
 
+</br>
 
 `def printConsoleMessageThreads(data)`
-Special method for print messages in Threads. Responsibilities similar to printConsolePrettyOutput(), but only for messages. 
+</br>Special method for print messages in Threads. Responsibilities similar to printConsolePrettyOutput(), but only for messages. 
 Threads means separate chats. Every one chat is one thread. 
-Parameters
---------------------
+</br></br>**Parameter**</br>
 dictionaryList : list
-	List of dictionaries with data. 
-Returns
---------------------
+</br>&emsp;&emspList of dictionaries with data. 
+</br></br>**Returns**</br>
 Print : str
-	Print messages in threads.
-Code description
---------------------
+</br>&emsp;&emspPrint messages in threads.
+
+### Code description
+
 Retrieve list of thread id
 ```
 for thread in range(len(dictionaryList)):  
@@ -170,7 +154,6 @@ for thread in listOfThreads:
         counter += 1  
     dictOfMessages[thread] = tableOfMessages
 ```
-
 Part of printing message emotions.
 ```
 if key == 'emotions':  
@@ -189,24 +172,23 @@ if key == 'emotions':
                 else:  
                     print(f'\t\t{emotionKey}: {emotionValue}')
 ```
-
+</br>
 
 `def printHeader(text)`
-Method for print header for particular artifacts section. 
-Parameters
---------------------
+</br>Method for print header for particular artifacts section. 
+</br></br>**Parameter**</br>
 text : str
-	Text to print.
-Returns
---------------------
+</br>&emsp;&emspText to print.
+</br></br>**Returns**</br>
 print : str
-	Print text with some other signs to make it prettier.
+</br>&emsp;&emspPrint text with some other signs to make it prettier.
 
-------------------------------------------------------------------
-# Main
+---
+## Main
+
 Program starting point
-Code description
---------------------
+### Code description
+
 Program arguments handling.
 ```
 parser = argparse.ArgumentParser()  
